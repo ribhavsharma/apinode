@@ -1,0 +1,64 @@
+{
+    "products": [
+      {
+        "id": "P001",
+        "categoryId": "cty01",
+        "name": "Kawai KX-21"
+      },
+      {
+        "id": "P002",
+        "categoryId": "cty02",
+        "name": "Kawai L-32"
+      },
+      {
+        "id": "P003",
+        "categoryId": "cty03",
+        "name": "Kawai Gold P3"
+      },
+      {
+        "id": "P004",
+        "categoryId": "cty04",
+        "name": "Casio CTX1000"
+      },
+      {
+        "id": "P005",
+        "categoryId": "cty01",
+        "name": "Yamaha Grandeur R30"
+      },
+      {
+        "id": "P006",
+        "categoryId": "cty02",
+        "name": "Yamaha K270"
+      },
+      {
+        "id": "P007",
+        "categoryId": "cty03",
+        "name": "Steinway & Sons 650"
+      },
+      {
+        "id": "P008",
+        "categoryId": "cty04",
+        "name": "Casio RX90"
+      },
+      {
+        "id": "P009",
+        "categoryId": "cty01",
+        "name": "Pearl River 6000"
+      },
+      {
+        "id": "P010",
+        "categoryId": "cty02",
+        "name": "Kawai Elite Z"
+      },
+      {
+        "id": "P011",
+        "categoryId": "cty03",
+        "name": "Yamaha Pro X"
+      },
+      {
+        "id": "P012",
+        "categoryId": "cty04",
+        "name": "Kawai Elite ZX-700"
+      }
+    ]
+  }
